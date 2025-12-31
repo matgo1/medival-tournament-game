@@ -1,0 +1,3 @@
+/home/matthew/Projects/Tournament/build/CMakeFiles/tournament.dir
+/home/matthew/Projects/Tournament/build/CMakeFiles/edit_cache.dir
+/home/matthew/Projects/Tournament/build/CMakeFiles/rebuild_cache.dir
