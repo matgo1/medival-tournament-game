@@ -1,0 +1,23 @@
+# Build directories
+build/
+bin/
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+
+# Compilation artifacts
+*.o
+*.so
+*.a
+*.dll
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
