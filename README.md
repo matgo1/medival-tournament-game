@@ -14,5 +14,10 @@ mkdir build && cd build
 cmake ..
 make
 ```
+## Usage
+```bash
+// In /build
+./tournament
+```
 ## Future plans
 Maybe I will add some new classes for this game later, but I don't see real demand in it.
